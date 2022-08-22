@@ -9,7 +9,7 @@ import random
 today = datetime.now()
 start_date ='2020-11-20'
 city = '呼伦贝尔市'
-birthday = environ['03-14'
+birthday = '03-14'
 
 app_id = "wxaf33f54928cf3911"
 app_secret = "55cceceee52ac97c7ebb059588f4a530"
